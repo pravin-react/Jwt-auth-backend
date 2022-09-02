@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productname": "Mac",
+      "sku": "21e23",
+      "description": "test",
+      "price": "1230"
+    },
+    {
+      "id": 2,
+      "productname": "Orange",
+      "sku": "SKU02000",
+      "description": "Fruit ",
+      "price": "1220"
+    },
+    {
+      "id": 3,
+      "productname": "Apple 16",
+      "sku": "sku111",
+      "description": "Vercel",
+      "price": "1000"
+      
+    },
+    {
+      "id": 4,
+      "productname": "Apple 14",
+      "sku": "sku112",
+      "description": "Vercel",
+      "price": "10000"
+      
+    }
+  ]
+}
